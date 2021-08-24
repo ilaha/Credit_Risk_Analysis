@@ -16,15 +16,23 @@ By using the data set from the LendingClub (*a lending service company*) I've an
 
 ### Smote:
 
+![Screenshot](/images/smote.png "img1")
+
 ### RandomUnderSampler:
+
+![Screenshot](/images/RandomUnderSampler.png "img1")
 
 ### Combination (Over and Under) Sampling - Smoteen:
 
+![Screenshot](/images/smoteen.png "img1")
+
 ### BalancedRandomForestClassifier:
+
+![Screenshot](/images/brc.png "img1")
 
 ### EasyEnsembleClassifier:
 
-
+![Screenshot](/images/eec.png "img1")
 
 
 
